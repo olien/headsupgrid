@@ -13,13 +13,13 @@ http://bohemianalps.com/tools/grid/
 
 ___
 
-Schreibt doch bitte auftretende Fehler, Notices und Wünsche als Issue auf [Github](https://github.com/olien/rex5_focuspoint/issues)
+Schreibt doch bitte auftretende Fehler, Notices und Wünsche als Issue auf [Github](https://github.com/olien/headsupgrid/issues)
 
 ___
 
 ### ToDo
 
-siehe [ISSUES](https://github.com/olien/rex5_focuspoint/issues)
+siehe [ISSUES](https://github.com/olien/headsupgrid/issues)
 
 ___
 
