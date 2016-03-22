@@ -1,0 +1,13 @@
+package:  headsupgrid
+version:  '0.1'
+author:   Oliver Kreischer
+supportpage: www.redaxo.org/de/forum
+
+page:
+    title: 'translate:title'
+    perm: headsupgrid[]
+    icon: rex-icon fa-reorder
+    subpages:
+      info: { title: 'translate:info'}
+      changelog: { title: 'translate:changelog'}
+      license: { title: 'translate:license'}

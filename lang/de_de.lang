@@ -1,0 +1,10 @@
+headsupgrid_title = Heads-Up Grid
+headsupgrid_info = Info
+headsupgrid_help = Hilfe
+headsupgrid_license = Lizenz
+
+headsupgrid_help = Hilfe
+headsupgrid_changelog = Änderungen
+
+
+perm_general_headsupgrid[] = Rechte für Heads-Up Grid Addon
