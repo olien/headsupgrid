@@ -3,8 +3,12 @@ headsupgrid_info = Info
 headsupgrid_help = Hilfe
 headsupgrid_license = Lizenz
 
-headsupgrid_help = Hilfe
-headsupgrid_changelog = Änderungen
+headsupgrid_aktiv             = Heads-Up Grid aktiv
+headsupgrid_save              = Änderung speichern
+headsupgrid_settings          = Einstellungen
 
+headsupgrid_help = Hilfe
+headsupgrid_settings = Einstellungen
+headsupgrid_changelog = Änderungen
 
 perm_general_headsupgrid[] = Rechte für Heads-Up Grid Addon

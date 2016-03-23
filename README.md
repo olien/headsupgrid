@@ -1,15 +1,12 @@
-
-Absolute Beta!!
-jQuery muss eingebunden sein!
-
-
 ### Heads-Up-Grid für Redaxo 5
 ___
 
-
-Hierfür wird das jQuery Plugin von [Jason Simanek](https://github.com/simanek/Heads-Up-Grid) benutzt.
+Das Heads-Up-Grid ist erzeugt ein konfigurierbares Grid-Overlay im Fronten da.
+Benutzt wird das jQuery Plugin von [Jason Simanek](https://github.com/simanek/Heads-Up-Grid).
 
 http://bohemianalps.com/tools/grid/
+
+Im Frontend muss jQuery einebunden und der HTML Tag &lt;/body&gt; vorhanden sein.
 
 ___
 

@@ -1,7 +1,7 @@
 package:  headsupgrid
-version:  '0.1'
+version:  '1'
 author:   Oliver Kreischer
-supportpage: www.redaxo.org/de/forum
+supportpage: https://github.com/olien/headsupgrid/issues
 
 page:
     title: 'translate:title'
@@ -9,5 +9,6 @@ page:
     icon: rex-icon fa-reorder
     subpages:
       info: { title: 'translate:info'}
+      settings: { title: 'translate:settings'}
       changelog: { title: 'translate:changelog'}
       license: { title: 'translate:license'}
