@@ -7,7 +7,7 @@ Benutzt wird das jQuery Plugin von [Jason Simanek](https://github.com/simanek/He
 
 http://bohemianalps.com/tools/grid/
 
-Im Frontend muss jQuery einebunden und der HTML Tag &lt;/body&gt; vorhanden sein.
+Im Frontend muss jQuery eingebunden und der HTML Tag &lt;/body&gt; vorhanden sein.
 
 ___
 
