@@ -1,7 +1,7 @@
 ### Heads-Up-Grid für Redaxo 5
 ___
 
-Das Heads-Up-Grid ist erzeugt ein konfigurierbares Grid-Overlay im Fronten da.
+Das Heads-Up-Grid erzeugt ein konfigurierbares Grid-Overlay im Frontend.
 Benutzt wird das jQuery Plugin von [Jason Simanek](https://github.com/simanek/Heads-Up-Grid).
 
 http://bohemianalps.com/tools/grid/
