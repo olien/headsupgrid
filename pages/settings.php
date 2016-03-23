@@ -30,7 +30,7 @@ $content .= '
       <div class="col-xs-12 col-sm-6">
         <p>Infos zu den Einstellungen finden sich auf der Webseite: <a target="_blank" href="http://bohemianalps.com/tools/grid/">http://bohemianalps.com/tools/grid/</a> </p>
 
-         <textarea id="headsupgrid_config" name="config[headsupgrid_config]">'.$this->getConfig('headsupgrid_config').'</textarea>
+         <textarea id="headsupgrid_config" class="codemirror" data-codemirror-theme="monokai" data-codemirror-mode="javascript" name="config[headsupgrid_config]">'.$this->getConfig('headsupgrid_config').'</textarea>
       </div>
     </div>
 </form>
