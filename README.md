@@ -2,6 +2,7 @@
 ___
 
 Das Heads-Up-Grid erzeugt ein konfigurierbares Grid-Overlay im Frontend.
+
 Benutzt wird das jQuery Plugin von [Jason Simanek](https://github.com/simanek/Heads-Up-Grid).
 
 http://bohemianalps.com/tools/grid/
